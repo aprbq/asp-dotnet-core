@@ -15,6 +15,7 @@ bld/
 bin/
 obj/
 
+GameStore.Api/obj/
 ## Visual Studio cache / temporary files
 .vs/
 *.user
